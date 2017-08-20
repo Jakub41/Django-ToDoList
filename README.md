@@ -6,13 +6,13 @@ A simple to do list done in Django with a Flask Rest API and MongoDB for the bac
 
 ## Installation:
 
-1.) Use pip to install all of the requirements by running pip install -r requirements.txt
-2.) Start your local mongo database
-3.) Start the API in the api directory by running `python app.py`
-4.) In the todolist directory, run `python manage.py migrate`
-4.) Start the Django app in the todolist directory by running `python manage.py runserver`
-5.) The Django app will be running at http://localhost:8000
-6.) The Flask API with be running at http://localhost:5000
+1. Use pip to install all of the requirements by running pip install -r requirements.txt
+2. Start your local mongo database
+3. Start the API in the api directory by running `python app.py`
+4. In the todolist directory, run `python manage.py migrate`
+4. Start the Django app in the todolist directory by running `python manage.py runserver`
+5. The Django app will be running at http://localhost:8000
+6. The Flask API with be running at http://localhost:5000
 
 ## Technologies Used:
 
