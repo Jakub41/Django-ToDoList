@@ -16,11 +16,11 @@ A simple to do list done in Django with a Flask Rest API and MongoDB for the bac
 
 ## Technologies Used:
 
-1.) Django is used to run a web application that is serving the static views for the application.
-2.) Flask is used to run an API that is connected to the MongoDB, and it exposes RESTful endpoints
+1. Django is used to run a web application that is serving the static views for the application.
+2. Flask is used to run an API that is connected to the MongoDB, and it exposes RESTful endpoints
     for managing the todolist tasks.
-3.) All API calls on the static pages are made using AJAX via the Axios library.
-4.) There is no JavaScript framework used. Jquery and vanilla JavaScript are responsible for modifying the Domain
+3. All API calls on the static pages are made using AJAX via the Axios library.
+4. There is no JavaScript framework used. Jquery and vanilla JavaScript are responsible for modifying the Domain
 
 ## Why Technologies Were Selected
 
