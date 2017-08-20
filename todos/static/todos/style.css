@@ -1,0 +1,15 @@
+.container {
+  padding: 50px;
+}
+#todo-form {
+  text-align: center;
+}
+#todo-list {
+  margin-top: 50px;
+}
+.todolist li {
+  margin-top: 15px;
+}
+.btn {
+  margin-right: 15px;
+}
