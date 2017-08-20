@@ -1,0 +1,14 @@
+click==6.7
+Django==1.11.4
+django-bootstrap4==0.0.1
+django-jquery==3.1.0
+Flask==0.12.2
+Flask-Cors==3.0.3
+Flask-PyMongo==0.5.1
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+pymongo==3.5.0
+pytz==2017.2
+six==1.10.0
+Werkzeug==0.12.2
